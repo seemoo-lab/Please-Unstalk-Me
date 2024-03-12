@@ -1,0 +1,88 @@
+{
+    "Where was the tracking device located?   [Other]": {
+        "answer_counts": {
+            "Other Person": 47,
+            "Vehicle": 3,
+            "Object": 22,
+            "On the person": 10,
+            "Public Space": 7,
+            "Neihgbour": 12,
+            "Public Transport": 22,
+            "Not found": 67,
+            "No answer": 30
+        }
+    },
+    "Which potential actors do concern you in the case of location tracking?  [Other]": {
+        "answer_counts": {
+            "Gaming opponents": 2,
+            "Acquaintances": 106,
+            "Criminals": 745,
+            "Human Trafficking": 64,
+            "Political": 34,
+            "(Former) Intimate Partner": 47,
+            "Strangers": 439,
+            "No one": 95,
+            "Companies": 19,
+            "Relatives": 92,
+            "Conflicting parties": 36,
+            "Fans": 5,
+            "Anyone": 67,
+            "Stalker": 82,
+            "(Former) Company / Employer": 53,
+            "Interest in Intimate Relationship": 33,
+            "Own Government": 11,
+            "Other Government": 17,
+            "Competitors": 5,
+            "Religion": 8
+        }
+    },
+    "How do you think stalking protection can be enhanced?  [Other]": {
+        "answer_counts": {
+            "Legislation": 28,
+            "Forbid devices": 13, 
+            "Preventive measures": 32, 
+            "No easy solution": 20, 
+            "No additional measures needed": 4, 
+            "Public information / Eduction": 30, 
+            "Documentation from manufacturers": 24, 
+            "Limit tracking capabilities": 26, 
+            "Anti-Tracking Solution from Manufacturer": 6, 
+            "OS integrated solution": 17, 
+            "Identification": 26, 
+            "Standardised API": 23, 
+            "Anti tracking app (3rd party)": 20, 
+            "Finder hardware": 5, 
+            "Jammer device": 4, 
+            "No answer": 30
+        }
+    },
+    "Please select your gender.  [Other]": {
+        "answer_counts": {
+            "Male": 2, 
+            "Female": 0, 
+            "Non-Binary": 31, 
+            "Trans": 6, 
+            "Fluid": 4, 
+            "Agender": 5, 
+            "Bigender": 1,
+            "Not defined": 1, 
+            "No answer": 1
+        }
+    }, 
+    "Do many incorrect notifications make you feel unsafe or anxious?Please explain your experience with incorrect notifications below. Like all questions, this is an optional question.": {
+        "answer_counts": {
+            "No": 961, 
+            "Yes": 291, 
+            "Only for the first time": 24, 
+            "False Positives cause trust issues (in the app)": 80, 
+            "Slightly": 34, 
+            "A lot": 18, 
+            "Depending on external factors (e.g. environment)": 10, 
+            "Don't know": 25, 
+            "Technical user": 26, 
+            "Appreciate notifications": 213, 
+            "Annyoing": 36, 
+            "No notification": 157
+        }
+    },
+}

@@ -1,0 +1,253 @@
+{
+    "Minimum age declaration": {
+        "I hereby state that I am at least 16 years old": 100.0
+    },
+    "Which potential misuse of key finders / Bluetooth trackers (e.g. AirTags) has been known to you before you started this survey?": {
+        "Stalking": 91.94745859508852,
+        "Car theft (tracking a valuable car to its parking location)": 64.59166190748144,
+        "Espionage": 42.528079192842185,
+        "Absence tracking (detecting when someone is not at home)": 53.13154387968779,
+        "Other": 6.377308204835332
+    },
+    "Do you agree with the statement:  \"During the next 12 months, somebody will try to track me using a key finder\" ": {
+        "disagree": 32.40053302874548,
+        "neither agree nor disagree": 31.06796116504854,
+        "strongly disagree": 18.846373500856654,
+        "agree": 8.680753854940034,
+        "strongly agree": 5.2922139729678275
+    },
+    "Which potential actors do concern you in the case of location tracking?": {
+        "My employer": 15.115172282505235,
+        "Friends": 13.497049305158956,
+        "Government agencies": 38.758804492670855,
+        "Companies": 32.64801066057491,
+        "(Former) intimate partners": 33.675994669712544,
+        "Other": 32.05787169236627
+    },
+    "Do you think the easy accessibility of Apple AirTags, Tile trackers and Samsung Smart Tags has led to more stalking? ": {
+        "Yes": 79.11669522177803,
+        "No": 12.98305730059014
+    },
+    "Do you think there is need for a government regulation that disallows the misuse of key finders such that they can be used for stalking?  E.g. forbid tracking of moving targets, delay location updates by several hours ": {
+        "Yes": 54.216638111555305,
+        "No": 32.24823910146583
+    },
+    "Is the intended function of these devices (finding lost items) more important to you than the potential misuse of them? ": {
+        "No": 50.161812297734635,
+        "Yes": 36.778983438035404
+    },
+    "Has your location been tracked without by any of these tracking devices?": {
+        "Apple Tracker (AirTag or other Find My Tracker)": 1.1993146773272416,
+        "Samsung SmartTag": 0.533028745478774,
+        "Google Tracker (available late summer 2023)": 0.20940415000951837,
+        "Tile": 0.7805063773082048,
+        "Chipolo": 0.3616980772891681,
+        "General GPS Tracker": 0.6853226727584237,
+        "No": 5.463544641157434,
+        "Other": 0.30458785455929943
+    },
+    "Have you been a victim to stalking in general? ": {
+        "No": 76.50866171711404,
+        "Yes": 19.131924614505998
+    },
+    "Which gender did your stalker have?": {
+        "Male": 58.40796019900497,
+        "Female": 23.681592039800993,
+        "Divers": 8.855721393034825,
+        "Other": 0.5970149253731344
+    },
+    "How long did the stalking continue?": {
+        "More than 1 year": 45.57213930348259,
+        "1 month up to 1 year": 37.41293532338308,
+        "Less than 1 month": 11.940298507462686
+    },
+    "How often have you been pursued?": {
+        "A few times (irregularly)": 36.318407960199,
+        "Daily": 25.472636815920396,
+        "Several times a month": 16.019900497512438,
+        "Several times a week": 15.323383084577113
+    },
+    "How is your current relation to the stalker?": {
+        "Prior intimate partner": 26.06965174129353,
+        "Unknown": 23.18407960199005,
+        "Known, but I don't want to specify": 15.323383084577113,
+        "Friend or acquaintance": 9.154228855721392,
+        "Family member": 6.26865671641791,
+        "Ex-partner of the current partner": 6.069651741293533,
+        "Colleague at work": 4.079601990049751,
+        "Client or customer": 2.0895522388059704,
+        "Boss or supervisor": 0.09950248756218905
+    },
+    "What do you think has been the motivation of the stalker?": {
+        "Desire for a loving relationship": 26.46766169154229,
+        "Resumption of a former relationship": 20.298507462686565,
+        "Jealousy, envy or distrust": 49.353233830845774,
+        "Revenge": 37.3134328358209,
+        "Feeling hurt by rejection": 36.71641791044776,
+        "Other": 24.378109452736318
+    },
+    "What methods of stalking have been used?": {
+        "Unwanted telephone calls": 52.13930348258706,
+        "Loitering nearby": 56.517412935323385,
+        "Unwanted digital communication: email, messages, Audio/Video messages, etc": 61.49253731343284,
+        "Location tracking (through Bluetooth tracker or other means)": 44.27860696517413,
+        "Following": 66.16915422885572,
+        "Approach via a third party": 44.37810945273632,
+        "Damage of property": 30.049751243781092,
+        "Invading at home": 27.46268656716418,
+        "Placing orders under your name": 15.422885572139302,
+        "Defamation or spread of personal information": 47.66169154228856,
+        "Threats": 40.69651741293532,
+        "Physical contact": 26.76616915422886,
+        "Physical violence": 19.900497512437813,
+        "Verbal violence": 41.89054726368159,
+        "Sexual harassment": 17.611940298507463,
+        "Sexual assaults": 12.139303482587065,
+        "Other": 11.641791044776118
+    },
+    "How has stalking impacted your life?": {
+        "Change of lifestyle": 60.995024875621894,
+        "Change of phone number, email address, etc": 46.069651741293534,
+        "Additional security measures": 66.3681592039801,
+        "Change of residence": 32.63681592039801,
+        "Change of workplace": 20.199004975124378,
+        "Seeking help from a lawyer": 20.398009950248756,
+        "Filing a report at the police": 32.039800995024876,
+        "Other": 17.611940298507463
+    },
+    "Have you been a victim to ongoing harassment?": {
+        "Yes": 59.00497512437811,
+        "No": 21.791044776119403
+    },
+    "Anti-tracking solutions in a Smartphone or based on an app ... ": {
+        "might give some protection against misusing Bluetooth tracker": 64.02055968018276,
+        "are the best solution protect against misusing Bluetooth tracker": 22.558537978298116,
+        "can cause more harm (due to anxiety) than do good": 3.597944031981725,
+        "might cause some harm": 3.083952027412907,
+        "do not affect users in general": 2.0750047591852274
+    },
+    "How do you think stalking protection can be enhanced?": {
+        "It should be integrated into Smartphones by default": 66.64762992575672,
+        "An-app based solution should be able to find all kinds of key finder devices (from Apple, Samsung, Tile, etc)": 68.72263468494194,
+        "All manufacturers of key finders should publish their own apps that detect stalking attempts": 32.13401865600609,
+        "Governments should provide solutions (can be an app or legislation)": 37.67371026080335,
+        "Manufacturers of key finders should prevent using the device for location tracking through technical measures": 45.783361888444695,
+        "Bluetooth Tracker should draw attention to theirselves after some time (Light/Sound signals)": 53.3028745478774,
+        "Other": 5.273177232057872
+    },
+    "What kind of stalking protections are known to you?": {
+        "System alerts (by Android/iOS) that warn of a tracker following me": 5.2922139729678275,
+        "Apps that warn of a tracker following me": 6.834189986674281,
+        "Device detectors (detecting wireless signals)": 3.2172092137826005,
+        "Other": 0.17133066818960593
+    },
+    "What would be the most effective stalking protection in your opinion?": {
+        "System Alerts (by iOS/Android) when a tracker follows me": 6.434418427565201,
+        "Tracking detection apps that send an alert": 4.892442413858747,
+        "Reduced tracking capabilities, e.g., tracker only reveal a coarse location with a 500m radius.": 1.6371597182562345,
+        "Automatic deactivation of a tracker (after a number of hours)": 1.4277555682467162,
+        "Ban of trackers": 0.8185798591281173
+    },
+    "Are you a user of AirGuard or have you used AirGuard in the past?      ": {
+        "Yes": 7.024557395773844,
+        "No": 0.6472491909385114
+    },
+    "Since I discovered AirGuard I feel ...": {
+        "slightly more safe": 41.76660955644393,
+        "the same as before": 28.840662478583667,
+        "much more safe": 12.335808109651628,
+        "slightly less safe": 1.0089472682276794,
+        "much less safe": 0.34266133637921187
+    },
+    "How would you rate the onboarding of the app?That is the first view you see when opening the app and where you need to permit Bluetooth, Location, and Battery scheduling.": {
+        "The onboarding of the app was  | Hard to understand | Easy to understand": 0.0,
+        "The onboarding of the app was | Not helpful at all | Helpful": 0.0,
+        "The app needs |  Too many permissions | The right number of permissions": 0.0
+    },
+    "Chose the statement that fits best concerning the discovery of key finders and other trackers in AirGuard ": {
+        "AirGuard did not find any": 31.98172472872644,
+        "AirGuard found as many as expected": 19.341328764515513,
+        "AirGuard found more than expected": 12.98305730059014,
+        "AirGuard found less than expected": 10.96516276413478,
+        "AirGuard found much more than expected": 4.283266704740148
+    },
+    "Which behaviour of AirGuard would you prefer?  An alert is a notification sent by AirGuard that informs you that a potential tracking device has followed you.  ": {
+        "Allow me as a user to configure how fast & accurate alerts should be": 55.09232819341329,
+        "Sending more alerts even though some might be false alarms": 21.758994860079955,
+        "Sending less alerts even though it might take longer or some alerts might be missed": 4.1880830001903675,
+        "Sending no alerts and as a user I can check manually in the app if I'm being tracked": 1.7133066818960592
+    },
+    "Did you receive a notification from AirGuard for a tracker / key finder that has been used to stalk you? ": {
+        "No": 70.55016181229773,
+        "Yes": 8.033504664001523
+    },
+    "Where was the tracking device located?": {
+        "Backpack or Purse": 16.350710900473935,
+        "Clothing": 7.345971563981042,
+        "Bike": 4.502369668246446,
+        "Car": 28.672985781990523,
+        "Other": 50.947867298578196
+    },
+    "Did you experience incorrect/false notifications from AirGuard and when did they occur?In this case the Bluetooth Tracker close to you was not used to actually track your location.": {
+        "Never": 54.844850561583854,
+        "When many people have been around (concert, exhibition, etc.)": 15.115172282505235,
+        "When my phone was in flight mode": 1.237388159147154,
+        "When I deactivated GPS / location services": 0.9708737864077669,
+        "When I was somewhere with a bad GPS signal (inside, underground)": 3.0649152865029503,
+        "When I was commuting in public transport (Train, Airplane, etc.)": 12.12640395964211,
+        "Other": 7.74795355035218
+    },
+    "Do many incorrect notifications make you feel unsafe or anxious?Please explain your experience with incorrect notifications below. Like all questions, this is an optional question.": {},
+    "Do you think the current methods in AirGuard to find a tracker are sufficient?   \tAirGuard sends a notification if a tracker follows you \tYou can scan for nearby trackers \tYou can locate trackers based on a scale from 0-100% \tYou can let AirGuard observe trackers for one hour and get a notification if the tracker is still nearby     ": {
+        "Yes": 5.425471159337522,
+        "No": 0.799543118218161
+    },
+    "What are you missing in AirGuard?": {},
+    "Please select your gender. ": {
+        "Male": 69.75061869407956,
+        "Female": 22.69179516466781,
+        "Divers": 1.7133066818960592,
+        "Other": 1.0470207500475919
+    },
+    "Please select your gender.": {
+        "Male": 69.75061869407956,
+        "Female": 22.69179516466781,
+        "Divers": 1.7133066818960592,
+        "Other": 1.0470207500475919
+    },
+    "Please select the age group that matches your age. ": {
+        "36-45": 25.509232819341328,
+        "26-35": 22.99638301922711,
+        "46-55": 16.695221778031602,
+        "20-25": 12.469065296021322,
+        "56-65": 8.661717114030077,
+        "16-19": 8.204835332191129,
+        "66-75": 2.055968018275271,
+        "75+": 0.3997715591090805
+    },
+    "Please select in which region you are located": {
+        "North America": 38.758804492670855,
+        "Western Europe": 38.47325337902151,
+        "Northern Europe": 8.814011041309728,
+        "Southern Europe": 2.2463354273748335,
+        "Oceania": 2.0369312773653148,
+        "Eastern Europe (including Northern Asia)": 1.8656006091757091,
+        "South-eastern Asia": 0.8376166000380735,
+        "Latin America and the Caribbean": 0.6853226727584237,
+        "Eastern Asia": 0.5139920045688178,
+        "Northern Africa": 0.3997715591090805,
+        "Southern Asia": 0.34266133637921187,
+        "Sub-Sahara Africa": 0.2474776318294308,
+        "Western Asia": 0.2284408909194746,
+        "Central Asia": 0.19036740909956215,
+        "Northern Asia": 0.03807348181991243
+    },
+    "How did you find out about our survey?": {
+        "AirGuardAppAndroid": 91.01465829050068,
+        "AirGuardAppiOS": 7.824100513992005,
+        "TwitterAirGuard": 0.1332571863696935,
+        "TwitterSEEMOO": 0.05711022272986865,
+        "TwitterAthene": 0.05711022272986865,
+        "SurveyCircle": 0.05711022272986865
+    }
+}

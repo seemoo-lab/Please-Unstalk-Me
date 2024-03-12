@@ -1,0 +1,327 @@
+{
+    "Minimum age declaration": {
+        "answer_counts": {
+            "I hereby state that I am at least 16 years old": 5253
+        }
+    },
+    "Which potential misuse of key finders / Bluetooth trackers (e.g. AirTags) has been known to you before you started this survey?": {
+        "answer_counts": {
+            "Stalking": 4830,
+            "Car theft (tracking a valuable car to its parking location)": 3393,
+            "Espionage": 2234,
+            "Absence tracking (detecting when someone is not at home)": 2791,
+            "Other": 335
+        }
+    },
+    "Do you agree with the statement:  \"During the next 12 months, somebody will try to track me using a key finder\" ": {
+        "answer_counts": {
+            "disagree": 1702,
+            "neither agree nor disagree": 1632,
+            "strongly disagree": 990,
+            "agree": 456,
+            "strongly agree": 278
+        }
+    },
+    "Which potential actors do concern you in the case of location tracking?": {
+        "answer_counts": {
+            "My employer": 794,
+            "Friends": 709,
+            "Government agencies": 2036,
+            "Companies": 1715,
+            "(Former) intimate partners": 1769,
+            "Other": 1684
+        }
+    },
+    "Do you think the easy accessibility of Apple AirTags, Tile trackers and Samsung Smart Tags has led to more stalking? ": {
+        "answer_counts": {
+            "Yes": 4156,
+            "No": 682
+        }
+    },
+    "Do you think there is need for a government regulation that disallows the misuse of key finders such that they can be used for stalking?  E.g. forbid tracking of moving targets, delay location updates by several hours ": {
+        "answer_counts": {
+            "Yes": 2848,
+            "No": 1694
+        }
+    },
+    "Is the intended function of these devices (finding lost items) more important to you than the potential misuse of them? ": {
+        "answer_counts": {
+            "No": 2635,
+            "Yes": 1932
+        }
+    },
+    "Has your location been tracked without by any of these tracking devices?": {
+        "answer_counts": {
+            "Apple Tracker (AirTag or other Find My Tracker)": 63,
+            "Samsung SmartTag": 28,
+            "Google Tracker (available late summer 2023)": 11,
+            "Tile": 41,
+            "Chipolo": 19,
+            "General GPS Tracker": 36,
+            "No": 287,
+            "Other": 16
+        }
+    },
+    "Have you been a victim to stalking in general? ": {
+        "answer_counts": {
+            "No": 4019,
+            "Yes": 1005
+        }
+    },
+    "Which gender did your stalker have?": {
+        "answer_counts": {
+            "Male": 587,
+            "Female": 238,
+            "Divers": 89,
+            "Other": 6
+        }
+    },
+    "How long did the stalking continue?": {
+        "answer_counts": {
+            "More than 1 year": 458,
+            "1 month up to 1 year": 376,
+            "Less than 1 month": 120
+        }
+    },
+    "How often have you been pursued?": {
+        "answer_counts": {
+            "A few times (irregularly)": 365,
+            "Daily": 256,
+            "Several times a month": 161,
+            "Several times a week": 154
+        }
+    },
+    "How is your current relation to the stalker?": {
+        "answer_counts": {
+            "Prior intimate partner": 262,
+            "Unknown": 233,
+            "Known, but I don't want to specify": 154,
+            "Friend or acquaintance": 92,
+            "Family member": 63,
+            "Ex-partner of the current partner": 61,
+            "Colleague at work": 41,
+            "Client or customer": 21,
+            "Boss or supervisor": 1
+        }
+    },
+    "What do you think has been the motivation of the stalker?": {
+        "answer_counts": {
+            "Desire for a loving relationship": 266,
+            "Resumption of a former relationship": 204,
+            "Jealousy, envy or distrust": 496,
+            "Revenge": 375,
+            "Feeling hurt by rejection": 369,
+            "Other": 245
+        }
+    },
+    "What methods of stalking have been used?": {
+        "answer_counts": {
+            "Unwanted telephone calls": 524,
+            "Loitering nearby": 568,
+            "Unwanted digital communication: email, messages, Audio/Video messages, etc": 618,
+            "Location tracking (through Bluetooth tracker or other means)": 445,
+            "Following": 665,
+            "Approach via a third party": 446,
+            "Damage of property": 302,
+            "Invading at home": 276,
+            "Placing orders under your name": 155,
+            "Defamation or spread of personal information": 479,
+            "Threats": 409,
+            "Physical contact": 269,
+            "Physical violence": 200,
+            "Verbal violence": 421,
+            "Sexual harassment": 177,
+            "Sexual assaults": 122,
+            "Other": 117
+        }
+    },
+    "How has stalking impacted your life?": {
+        "answer_counts": {
+            "Change of lifestyle": 613,
+            "Change of phone number, email address, etc": 463,
+            "Additional security measures": 667,
+            "Change of residence": 328,
+            "Change of workplace": 203,
+            "Seeking help from a lawyer": 205,
+            "Filing a report at the police": 322,
+            "Other": 177
+        }
+    },
+    "Have you been a victim to ongoing harassment?": {
+        "answer_counts": {
+            "Yes": 593,
+            "No": 219
+        }
+    },
+    "Anti-tracking solutions in a Smartphone or based on an app ... ": {
+        "answer_counts": {
+            "might give some protection against misusing Bluetooth tracker": 3363,
+            "are the best solution protect against misusing Bluetooth tracker": 1185,
+            "can cause more harm (due to anxiety) than do good": 189,
+            "might cause some harm": 162,
+            "do not affect users in general": 109
+        }
+    },
+    "How do you think stalking protection can be enhanced?": {
+        "answer_counts": {
+            "It should be integrated into Smartphones by default": 3501,
+            "An-app based solution should be able to find all kinds of key finder devices (from Apple, Samsung, Tile, etc)": 3610,
+            "All manufacturers of key finders should publish their own apps that detect stalking attempts": 1688,
+            "Governments should provide solutions (can be an app or legislation)": 1979,
+            "Manufacturers of key finders should prevent using the device for location tracking through technical measures": 2405,
+            "Bluetooth Tracker should draw attention to theirselves after some time (Light/Sound signals)": 2800,
+            "Other": 277
+        }
+    },
+    "What kind of stalking protections are known to you?": {
+        "answer_counts": {
+            "System alerts (by Android/iOS) that warn of a tracker following me": 278,
+            "Apps that warn of a tracker following me": 359,
+            "Device detectors (detecting wireless signals)": 169,
+            "Other": 9
+        }
+    },
+    "What would be the most effective stalking protection in your opinion?": {
+        "answer_counts": {
+            "System Alerts (by iOS/Android) when a tracker follows me": 338,
+            "Tracking detection apps that send an alert": 257,
+            "Reduced tracking capabilities, e.g., tracker only reveal a coarse location with a 500m radius.": 86,
+            "Automatic deactivation of a tracker (after a number of hours)": 75,
+            "Ban of trackers": 43
+        }
+    },
+    "Are you a user of AirGuard or have you used AirGuard in the past?      ": {
+        "answer_counts": {
+            "Yes": 369,
+            "No": 34
+        }
+    },
+    "Since I discovered AirGuard I feel ...": {
+        "answer_counts": {
+            "slightly more safe": 2194,
+            "the same as before": 1515,
+            "much more safe": 648,
+            "slightly less safe": 53,
+            "much less safe": 18
+        }
+    },
+    "How would you rate the onboarding of the app?That is the first view you see when opening the app and where you need to permit Bluetooth, Location, and Battery scheduling.": {
+        "answer_counts": {
+            "The onboarding of the app was  | Hard to understand | Easy to understand": 0,
+            "The onboarding of the app was | Not helpful at all | Helpful": 0,
+            "The app needs |  Too many permissions | The right number of permissions": 0
+        }
+    },
+    "Chose the statement that fits best concerning the discovery of key finders and other trackers in AirGuard ": {
+        "answer_counts": {
+            "AirGuard did not find any": 1680,
+            "AirGuard found as many as expected": 1016,
+            "AirGuard found more than expected": 682,
+            "AirGuard found less than expected": 576,
+            "AirGuard found much more than expected": 225
+        }
+    },
+    "Which behaviour of AirGuard would you prefer?  An alert is a notification sent by AirGuard that informs you that a potential tracking device has followed you.  ": {
+        "answer_counts": {
+            "Allow me as a user to configure how fast & accurate alerts should be": 2894,
+            "Sending more alerts even though some might be false alarms": 1143,
+            "Sending less alerts even though it might take longer or some alerts might be missed": 220,
+            "Sending no alerts and as a user I can check manually in the app if I'm being tracked": 90
+        }
+    },
+    "Did you receive a notification from AirGuard for a tracker / key finder that has been used to stalk you? ": {
+        "answer_counts": {
+            "No": 3706,
+            "Yes": 422
+        }
+    },
+    "Where was the tracking device located?": {
+        "answer_counts": {
+            "Backpack or Purse": 69,
+            "Clothing": 31,
+            "Bike": 19,
+            "Car": 121,
+            "Other": 215
+        }
+    },
+    "Did you experience incorrect/false notifications from AirGuard and when did they occur?In this case the Bluetooth Tracker close to you was not used to actually track your location.": {
+        "answer_counts": {
+            "Never": 2881,
+            "When many people have been around (concert, exhibition, etc.)": 794,
+            "When my phone was in flight mode": 65,
+            "When I deactivated GPS / location services": 51,
+            "When I was somewhere with a bad GPS signal (inside, underground)": 161,
+            "When I was commuting in public transport (Train, Airplane, etc.)": 637,
+            "Other": 407
+        }
+    },
+    "Do many incorrect notifications make you feel unsafe or anxious?Please explain your experience with incorrect notifications below. Like all questions, this is an optional question.": {
+        "answer_counts": {}
+    },
+    "Do you think the current methods in AirGuard to find a tracker are sufficient?   \tAirGuard sends a notification if a tracker follows you \tYou can scan for nearby trackers \tYou can locate trackers based on a scale from 0-100% \tYou can let AirGuard observe trackers for one hour and get a notification if the tracker is still nearby     ": {
+        "answer_counts": {
+            "Yes": 285,
+            "No": 42
+        }
+    },
+    "What are you missing in AirGuard?": {
+        "answer_counts": {}
+    },
+    "Please select your gender. ": {
+        "answer_counts": {
+            "Male": 3664,
+            "Female": 1192,
+            "Divers": 90,
+            "Other": 55
+        }
+    },
+    "Please select your gender.": {
+        "answer_counts": {
+            "Male": 3664,
+            "Female": 1192,
+            "Divers": 90,
+            "Other": 55
+        }
+    },
+    "Please select the age group that matches your age. ": {
+        "answer_counts": {
+            "36-45": 1340,
+            "26-35": 1208,
+            "46-55": 877,
+            "20-25": 655,
+            "56-65": 455,
+            "16-19": 431,
+            "66-75": 108,
+            "75+": 21
+        }
+    },
+    "Please select in which region you are located": {
+        "answer_counts": {
+            "North America": 2036,
+            "Western Europe": 2021,
+            "Northern Europe": 463,
+            "Southern Europe": 118,
+            "Oceania": 107,
+            "Eastern Europe (including Northern Asia)": 98,
+            "South-eastern Asia": 44,
+            "Latin America and the Caribbean": 36,
+            "Eastern Asia": 27,
+            "Northern Africa": 21,
+            "Southern Asia": 18,
+            "Sub-Sahara Africa": 13,
+            "Western Asia": 12,
+            "Central Asia": 10,
+            "Northern Asia": 2
+        }
+    },
+    "How did you find out about our survey?": {
+        "answer_counts": {
+            "AirGuardAppAndroid": 4781,
+            "AirGuardAppiOS": 411,
+            "TwitterAirGuard": 7,
+            "TwitterSEEMOO": 3,
+            "TwitterAthene": 3,
+            "SurveyCircle": 3
+        }
+    }
+}
